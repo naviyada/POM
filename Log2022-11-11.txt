@@ -1,0 +1,26 @@
+2022-11-11 08:22:07,135 - ScenarioOutlineExampleStep.py:[22] - [INFO] - Navigated to Rediffmail Login Page
+2022-11-11 08:22:10,203 - ScenarioOutlineExampleStep.py:[29] - [INFO] - Username Text Validated
+2022-11-11 08:22:13,317 - ScenarioOutlineExampleStep.py:[37] - [INFO] - Username field typed
+2022-11-11 08:22:16,354 - ScenarioOutlineExampleStep.py:[44] - [INFO] - Password Text Validated
+2022-11-11 08:22:19,474 - ScenarioOutlineExampleStep.py:[51] - [INFO] - Password field typed
+2022-11-11 08:22:25,629 - ScenarioOutlineExampleStep.py:[58] - [INFO] - Signin button clicked
+2022-11-11 08:22:28,750 - ScenarioOutlineExampleStep.py:[65] - [INFO] - searched
+2022-11-11 08:22:31,989 - ScenarioOutlineExampleStep.py:[71] - [INFO] - search button clicked
+2022-11-11 08:22:43,848 - ScenarioOutlineExampleStep.py:[22] - [INFO] - Navigated to Rediffmail Login Page
+2022-11-11 08:22:46,922 - ScenarioOutlineExampleStep.py:[29] - [INFO] - Username Text Validated
+2022-11-11 08:22:50,075 - ScenarioOutlineExampleStep.py:[37] - [INFO] - Username field typed
+2022-11-11 08:22:53,116 - ScenarioOutlineExampleStep.py:[44] - [INFO] - Password Text Validated
+2022-11-11 08:22:56,322 - ScenarioOutlineExampleStep.py:[51] - [INFO] - Password field typed
+2022-11-11 08:23:00,787 - ScenarioOutlineExampleStep.py:[58] - [INFO] - Signin button clicked
+2022-11-11 08:23:54,665 - ScenarioOutlineExampleStep.py:[22] - [INFO] - Navigated to Rediffmail Login Page
+2022-11-11 08:23:58,133 - ScenarioOutlineExampleStep.py:[29] - [INFO] - Username Text Validated
+2022-11-11 08:24:01,262 - ScenarioOutlineExampleStep.py:[37] - [INFO] - Username field typed
+2022-11-11 08:24:04,318 - ScenarioOutlineExampleStep.py:[44] - [INFO] - Password Text Validated
+2022-11-11 08:24:07,570 - ScenarioOutlineExampleStep.py:[51] - [INFO] - Password field typed
+2022-11-11 08:24:41,032 - ScenarioOutlineExampleStep.py:[58] - [INFO] - Signin button clicked
+2022-11-11 08:25:33,858 - ScenarioOutlineExampleStep.py:[22] - [INFO] - Navigated to Rediffmail Login Page
+2022-11-11 08:25:36,904 - ScenarioOutlineExampleStep.py:[29] - [INFO] - Username Text Validated
+2022-11-11 08:25:40,045 - ScenarioOutlineExampleStep.py:[37] - [INFO] - Username field typed
+2022-11-11 08:25:43,111 - ScenarioOutlineExampleStep.py:[44] - [INFO] - Password Text Validated
+2022-11-11 08:25:46,313 - ScenarioOutlineExampleStep.py:[51] - [INFO] - Password field typed
+2022-11-11 08:25:58,437 - ScenarioOutlineExampleStep.py:[58] - [INFO] - Signin button clicked
